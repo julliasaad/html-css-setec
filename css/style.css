@@ -1,0 +1,80 @@
+/* removendo estilos que browser aplica e não precisamos */
+
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Exo 2', sans-serif;
+  overflow-x: hidden;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* fim */
+
+/* header */
+header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .logo {
+  margin: 0;
+}
+
+/* sections */
+
+.section-title {
+  margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.members-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.members-list .card {
+  text-align: center;
+  cursor: pointer;
+}
+
+.members-list .card:hover .title,
+.members-list .card:hover .description {
+  color: #fff;
+  transition: 1s linear;
+}
+
+.members-list .card:hover .member-photo img {
+  width: 0;
+  transition: width 1s linear;
+}
+
+.members-list .card .member-photo {
+  height: auto;
+  width: 50vw;
+}
+
+.members-list .card .member-photo img {
+  height: auto;
+  width: 100%;
+}
+
+.members-list .card .title {
+  color: #000;
+  text-transform: uppercase;
+}
+
+.members-list .card .description {
+  padding: 0 50px;
+  color: #000;
+}
+
+/* footer */
