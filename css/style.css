@@ -42,6 +42,18 @@ footer {
   text-transform: uppercase;
 }
 
+@media (min-width: 768px) {
+  .section-title {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-title {
+    margin-bottom: 30px;
+  }
+}
+
 /* section members list */
 .members-list {
   display: flex;
@@ -55,7 +67,7 @@ footer {
 }
 
 .members-list .card .member-photo {
-  height: auto; 
+  height: auto;
   width: 100%;
 }
 
@@ -69,7 +81,35 @@ footer {
 }
 
 .members-list .card .description {
-  padding: 0 50px; 
+  padding: 0 50px;
+}
+
+@media (min-width: 768px) {
+  .members-list .card .title {
+    font-size: 30px;
+  }
+
+  .members-list .card .description {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .members-list {
+    flex-direction: row;
+  }
+
+  .members-list .card .member-photo img {
+    width: 50vw;
+  }
+
+  .members-list .card .title {
+    font-size: 24px;
+  }
+
+  .members-list .card .description {
+    font-size: 22px;
+  }
 }
 
 /* albums list */
@@ -92,6 +132,28 @@ footer {
   width: 100%;
 }
 
+@media (min-width: 768px) {
+  .album-item h3 {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .albums-list {
+    padding: 0 50px;
+    justify-content: center;
+  }
+
+  .album-link {
+    display: block;
+  }
+
+  .album-img {
+    width: 500px;
+    text-align: center;
+  }
+}
+
 /* footer */
 .contact-list {
   padding: 15px 0;
@@ -106,4 +168,10 @@ footer {
 .contact-link {
   color: #fff;
   text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .fab {
+    font-size: 48px;
+  }
 }
