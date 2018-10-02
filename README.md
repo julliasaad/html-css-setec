@@ -1,12 +1,12 @@
 # Curso HTML e CSS SETEC 2018 :sparkles:
 
 ## Slides
-:eyes: [Slides](someurlhere)
+:eyes: [Slides](https://docs.google.com/presentation/d/1slPgx1d9qAqcfPcx_zLN0YX3eLNEenT6E7rUfVw3YqU/edit?usp=sharing)
 
 ## Documentações
 :sparkles: [HTML docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-:nail_care: [CSS docs](http://devdocs.io/css/)
+:nail_care: [CSS reference](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
 
 ## Tutoriais
 :baby: [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
