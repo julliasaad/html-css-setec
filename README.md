@@ -1,4 +1,4 @@
-# Curso HTML e CSS SETEC 2018 :sparkles:
+# Curso HTML & CSS SETEC 2018 :sparkles: :sparkles: :sparkles:
 
 ## Slides
 :eyes: [Slides](https://docs.google.com/presentation/d/1slPgx1d9qAqcfPcx_zLN0YX3eLNEenT6E7rUfVw3YqU/edit?usp=sharing)
@@ -8,14 +8,20 @@
 
 :nail_care: [CSS reference](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
 
-## Tutoriais
-:baby: [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
+## Aprender
+:blossom: [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
 
-:cat: [HTML básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico)
+:turtle: [HTML básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico)
+
+:man: [Maujor](http://www.maujor.com/)
 
 :frog: [Flexbox Froggy](https://flexboxfroggy.com/)
 
+:cherry_blossom: [CSS Tricks](https://css-tricks.com/)
+
 ## Outros links
+:heart: [Codepen](https://codepen.io/)
+
 :abc: [Fontes gratuitas](https://fonts.google.com/)
 
 :dancers: [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
