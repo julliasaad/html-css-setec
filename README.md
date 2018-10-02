@@ -1,4 +1,4 @@
-# Curso HTML e CSS SETEC 2018 :dancers:
+# Curso HTML e CSS SETEC 2018 :sparkles:
 
 ## Slides
 :eyes: [Slides](someurlhere)
@@ -15,3 +15,7 @@
 
 ## Outros links
 :abc: [Fontes gratuitas](https://fonts.google.com/)
+
+:dancers: [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
+
+:iphone: [Viewport meta tag](https://developer.mozilla.org/pt-BR/docs/Mozilla/Mobile/Viewport_meta_tag)
